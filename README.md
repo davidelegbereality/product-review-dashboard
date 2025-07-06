@@ -1,21 +1,19 @@
-🛒 Amazon Product Review Analysis Dashboard
+Amazon Product Review Analysis Dashboard
 
-![Dashboard Overview](Screenshots/Dashboard-Overview.png)
-
-📊 Project Overview
+Project Overview
 
 This project provides a comprehensive Excel dashboard analyzing product reviews, pricing, and discount behavior on Amazon. Using data-driven insights, the dashboard answers critical business questions related to customer engagement, product popularity, pricing effectiveness, and category-level trends.
 
-📁 File: `AMAZON PRODUCT REVIEW 2.xlsx`
+File: `AMAZON PRODUCT REVIEW 2.xlsx`
 
 > Built entirely in Excel using *Pivot Tables*, *Charts*, *Helper Columns*, and *Slicers* to visualize product and customer behavior on Amazon.
 
-👤 Author
+ Author
 
 *David Reality Elegbe* 
-📧 Email: [davidelegbereality@gmail.com](mailto:davidelegbereality@gmail.com)
+ Email: [davidelegbereality@gmail.com](mailto:davidelegbereality@gmail.com)
 
-🔧 Tools Used
+ Tools Used
 
 - Microsoft Excel 2016
 - Pivot Tables & Pivot Charts
@@ -23,7 +21,7 @@ This project provides a comprehensive Excel dashboard analyzing product reviews,
 - Helper columns with custom formulas
 - Conditional formatting for KPI visualization
 
-📌 Key Metrics & KPIs
+ Key Metrics & KPIs
 
 | Metric                        | Value        | Insight |
 |------------------------------|--------------|---------|
@@ -35,7 +33,7 @@ This project provides a comprehensive Excel dashboard analyzing product reviews,
 | Total Potential Revenue      | ₹14B+        | Estimated from actual price × reviews |
 | Average Discount             | 47%          | Shows trend across categories |
 
-🎯 Business Questions Answered
+ Business Questions Answered
 
 1. What’s the average discount % by category?
 2. How many products are in each category?
@@ -48,31 +46,31 @@ This project provides a comprehensive Excel dashboard analyzing product reviews,
 9. What is the rating distribution across products?
 10. How many products fall into each price bucket?
 
-📈 Dashboard Features
+ Dashboard Features
 
-- 📌 *Dynamic Slicers* to filter by category
-- 📊 *Top 5 Products* by combined Rating × Review Count
-- 🧮 *Revenue Analysis* based on price × reviews
-- 🎯 *Engagement Scorecards* for product performance
-- 🔎 *Category-wise trends* in pricing and review volume
-- 🧠 *Data-driven insights* presented visually and interactively
+-  *Dynamic Slicers* to filter by category
+-  *Top 5 Products* by combined Rating × Review Count
+-  *Revenue Analysis* based on price × reviews
+-  *Engagement Scorecards* for product performance
+-  *Category-wise trends* in pricing and review volume
+-  *Data-driven insights* presented visually and interactively
 
-🚀 How to Use
+How to Use
 
 1. Download `AMAZON PRODUCT REVIEW 2.xlsx`
 2. Open the *Dashboard* sheet
 3. Use *slicers* to filter categories
 4. View updated metrics, charts, and KPIs dynamically
 
-💡 Future Improvements
+![Dashboard Overview]
+![Amozon Product Review Dashboard View](https://github.com/user-attachments/assets/4bea5167-9c59-442e-b619-567862bae114)
+![Amazon Product Review_Top five Products with Highest Engagement Score](https://github.com/user-attachments/assets/9de64654-6c79-4649-89b9-44d21a5b2bea)
+![Amazon Product Review_Average Discount Percentage by Product Category](https://github.com/user-attachments/assets/9a42d95f-e911-4877-b195-d0ed3aa242d7)
+![Amazon Product Review_Potential Revenue by Product Category ](https://github.com/user-attachments/assets/9ca352e4-a5d9-40ed-8c0a-162b76dd6473)
 
-- Connect live data using Power Query or APIs
-- Migrate visuals to Power BI for web access
-- Apply machine learning for product scoring
-
-📬 Contact
+Contact
 
 Feel free to reach out for questions, collaboration, or feedback.
 
 *David Reality Elegbe* 
-📧 [davidelegbereality@gmail.com](mailto:davidelegbereality@gmail.com)
+ [davidelegbereality@gmail.com](mailto:davidelegbereality@gmail.com)
